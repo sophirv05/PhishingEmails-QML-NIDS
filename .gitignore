@@ -1,0 +1,4 @@
+datasets/Phishing/*.csv
+scrap/*.pkl
+*.npy
+*.npz
