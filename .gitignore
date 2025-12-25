@@ -1,4 +1,7 @@
 datasets/Phishing/*.csv
 scrap/*.pkl
-*.npy
 *.npz
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
